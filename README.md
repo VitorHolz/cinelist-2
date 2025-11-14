@@ -11,6 +11,8 @@ Demonstração das funcionalidades:
 
 Instrução:
 
+o código está na branch "master"
+
 npm install -> baixar as dependências do projeto
 
 substituir o "localhost" no código pelo ip do seu computador (tabs/index.tsx - linha 19 | tabs/filme/[id].tsx - linha 68 | tabs/search.tsx - linha 22
