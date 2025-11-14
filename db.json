@@ -1,0 +1,107 @@
+{
+  "filmesAlta": [
+    {
+      "id": 1,
+      "nome": "Neon Genesis Evangelion: The End of Evangelion",
+      "estreia": 1997,
+      "diretor": "Hideaki Anno",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/4/0/3/1/1/40311-neon-genesis-evangelion-the-end-of-evangelion-0-1000-0-1500-crop.jpg?v=3f8b0ad85b",
+      "descricao": "A SEELE ordena um ataque total contra a NERV, com o objetivo de destruir os Evas antes que Gendo possa avançar com seus planos para o Projeto de Instrumentalidade Humana. Shinji é levado ao limite de sua sanidade ao ser forçado a decidir o destino da humanidade.",
+      "nota": 4.5
+    },
+    {
+      "id": 2,
+      "nome": "Hacksaw Ridge",
+      "estreia": 2016,
+      "diretor": "Mel Gibson",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/1/8/7/2/251872-hacksaw-ridge-0-1000-0-1500-crop.jpg?v=031e346657",
+      "descricao": "Desmond T. Doss, médico do Exército americano na Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, recusou-se a matar pessoas e tornou-se o primeiro objetor de consciência na história americana a receber a Medalha de Honra do Congresso.",
+      "nota": 4.0
+    },
+    {
+      "id": 3,
+      "nome": "The Batman",
+      "estreia": 2022,
+      "diretor": "Matt Reeves",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/3/4/8/9/1/4/348914-the-batman-0-1000-0-1500-crop.jpg?v=ec12a8b7ce",
+      "descricao": "Em seu segundo ano combatendo o crime, Batman descobre corrupção em Gotham City que o liga à sua própria família, enquanto enfrenta um assassino em série conhecido como Charada.",
+      "nota": 4.0
+    }
+  ],
+  "filmesRecomendados": [
+    {
+      "id": 4,
+      "nome": "Blue Velvet",
+      "estreia": 1986,
+      "diretor": "David Lynch",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/5/1/3/5/9/51359-blue-velvet-0-1000-0-1500-crop.jpg?v=b0ee3c20f6",
+      "descricao": "A descoberta de uma orelha humana decepada em um campo leva um jovem a uma investigação relacionada a uma bela e misteriosa cantora de boate e a um grupo de criminosos psicopatas que sequestraram seu filho.",
+      "nota": 4.1
+    },
+    {
+      "id": 5,
+      "nome": "Scarface",
+      "estreia": 1983,
+      "diretor": "Brian De Palma",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/9/51939-scarface-0-1000-0-1500-crop.jpg?v=e64e66a6b8",
+      "descricao": "Após obter um green card em troca do assassinato de um oficial do governo cubano, Tony Montana reivindica o controle do tráfico de drogas em Miami. Matando brutalmente qualquer um que se coloque em seu caminho, Tony eventualmente se torna o maior traficante do estado, controlando quase toda a cocaína que entra em Miami. Mas a crescente pressão da polícia, as guerras com os cartéis colombianos e sua própria paranoia alimentada pelas drogas contribuem para sua eventual queda.",
+      "nota": 4.1
+    },
+    {
+      "id": 6,
+      "nome": "The Silence of The Lambs",
+      "estreia": 1991,
+      "diretor": "Jonathan Demme",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/2/51782-the-silence-of-the-lambs-0-1000-0-1500-crop.jpg?v=18d88bdff4",
+      "descricao": "Clarice Starling é uma aluna exemplar na academia de treinamento do FBI. Jack Crawford quer que Clarice entreviste o Dr. Hannibal Lecter, um psiquiatra brilhante e psicopata violento, que cumpre pena de prisão perpétua por diversos assassinatos e canibalismo. Crawford acredita que Lecter possa ter informações importantes sobre um caso e que Starling, por ser uma jovem atraente, pode ser a isca perfeita para atraí-lo.",
+      "nota": 4.3
+    }
+  ],
+  "outros": [
+    {
+      "id": 7,
+      "nome": "Twin Peaks",
+      "estreia": 1989,
+      "diretor": "David Lynch",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/3/8/4/5/5/7/384557-twin-peaks-0-1000-0-1500-crop.jpg?v=dd1938c1f2",
+      "descricao": "Um agente do FBI com um estilo peculiar investiga o assassinato de uma jovem na cidade ainda mais peculiar de Twin Peaks.",
+      "nota": 4.6
+    },
+    {
+      "id": 8,
+      "nome": "Come and See",
+      "estreia": 1985,
+      "diretor": "Elem Klimov",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/3/6/1/9/2/36192-come-and-see-0-1000-0-1500-crop.jpg?v=741b0269bb",
+      "descricao": "A invasão de uma aldeia na Bielorrússia pelas forças alemãs leva o jovem Florya para a floresta a juntar-se aos exaustos combatentes da Resistência, contra a vontade da sua família. Lá, ele conhece uma menina, Glasha, que o acompanha de volta à sua aldeia. Ao retornar para casa, Florya encontra sua família e outros camponeses massacrados. Sua luta pela sobrevivência em meio aos destroços brutais da guerra torna-se cada vez mais angustiante, uma batalha entre o desespero e a esperança.",
+      "nota": 4.6
+    },
+    {
+      "id": 9,
+      "nome": "Godzilla Minus One",
+      "estreia": 2023,
+      "diretor": "Takashi Yamazaki",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/8/4/5/7/0/6/845706-godzilla-minus-one-0-1000-0-1500-crop.jpg?v=a98e8c1ed4",
+      "descricao": "No Japão do pós-guerra, Godzilla traz uma nova devastação a uma paisagem já arrasada. Sem intervenção militar ou ajuda governamental à vista, os sobreviventes precisam se unir diante do desespero e lutar contra um horror implacável.",
+      "nota": 4.1
+    },
+    {
+      "id": 10,
+      "nome": "Where the Wild Things Are",
+      "estreia": 2009,
+      "diretor": "Spike Jonze",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/4/1/5/1/9/41519-where-the-wild-things-are-0-1000-0-1500-crop.jpg?v=7324cb0409",
+      "descricao": "Max imagina fugir de casa, da sua mãe, e navegar até uma terra distante onde grandes criaturas falantes — Ira, Carol, Douglas, o Touro, Judith e Alexander — o coroam rei, brincam, constroem fortes e descobrem esconderijos secretos.",
+      "nota": 3.5
+    },
+    {
+      "id": 11,
+      "nome": "Witness for the Prosecution",
+      "imagem": "https://a.ltrbxd.com/resized/film-poster/2/7/1/7/5/27175-witness-for-the-prosecution-0-1000-0-1500-crop.jpg?v=e7538a44b3",
+      "estreia": 1957,
+      "diretor": "Billy Wilder",
+      "descricao": "Um advogado doente concorda em defender um homem em um julgamento de assassinato sensacional, onde o depoimento pouco convincente da esposa do réu se torna motivo de confusão.",
+      "nota": 4.3
+    }
+  ]
+}
